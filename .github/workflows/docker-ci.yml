@@ -24,4 +24,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: sharg97/myapp:latest
+          tags: sharg97/myapp:2.0
